@@ -9,3 +9,6 @@
 
 ## Example dotenv (.env) file contents
 `GOOGLE_API_KEY=your-key`
+
+## AI Agent Graph Diagram
+![image diff ai agent graph](images/graph-image.png)
